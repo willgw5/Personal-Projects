@@ -1,0 +1,528 @@
+el pescado, fish
+la cebolla, onion
+el cangrejo, crab
+el mono, monkey
+la araña, spider
+el ratón, mouse
+el conejo, rabbit
+el oso, bear
+el tiburon, shark
+la chaqueta, jacket
+café, brown
+púrpuro, purple
+la corbata, tie
+las calcetines, socks
+la ala, wing
+la mariposa, butterfly
+el gorro, cap
+el escritorio, desk
+la sábana, bedsheet
+la cartera, wallet
+el refrigerador, fridge
+la secadora, dryer
+el espejo, mirror
+el sartén, pan
+el cepillo, brush
+la pared, wall
+la zanahoria, carrot
+el dueño, owner
+el conductor, driver
+el empleado, employee
+el cajero, cashier
+el sacerdote, priest
+el enfermero, nurse
+el abogado, lawyer
+el pintor, painter
+el comandante, commander
+desde, since
+un rato, moment, a moment, a while
+anoche, last night
+la madruga, dawn
+la estación, season
+la fecha, date
+la cita, meeting
+la temporada, season(any), season
+el agua, water
+barato, cheap
+próximo, close
+bilingue, bilingual
+la cuchara, spoon
+el cuchillo, knife
+el tenedor, fork
+último, last
+propio, my own
+entregar, to deliver
+soñar, to dream
+contar con, to count on
+caber, to fit
+culpar, to blame
+unos cuantos, a few
+ningún, none
+así, like that
+bastante, enough, quite
+aún, still
+hacia adelante, forwards
+todavía, still
+aun, even
+alredador, around
+además, furthermore
+definitivamente, definitely
+aproximadamente, approximately
+nuevamente, again
+despacio, slowly
+jamás, never
+por supuesto, of course
+actualmente, currently
+las tijeras, scissors
+la moto, motorbike
+las armas, weapons
+el aparato, equipment, apparatus
+la moneda, coin
+la bandera, flag
+la cadena, chain
+el polvo, dust
+el motor, engine, motor
+la pieza, piece
+la caja, box
+la pluma, fountain pen, quill
+la tarjeta, card
+la rueda, wheel
+la nota, note
+las notas, grades
+el hogar, home
+la cárcel, prison
+la institución, institution, establishment
+la esquina, corner
+la pista, trail, clue
+el departamento, department, apartment
+la frontera, frontier, border
+la ruta, route
+el terreno, land
+el norte, north
+el este, east
+el oeste, west
+el sur, south
+la distancia, distance
+el cuarto, quarter, room
+la capital, capital
+la hacienda, farm, ranch
+la patria, homeland
+el cabellero, gentleman, knight
+el matrimonio, marriage
+el individuo, individual
+la costumbre, custom, habit
+el testigo, witness
+la humanidad, humanity
+ya, already
+el ciudadano, citizen
+la feria, fair
+los años cincuenta, the fifties
+millón, million
+alcanzar, to reach]
+alcanzar a, to catch up with
+siquiera, at least
+ni siquiera, not even
+contestar, to answer, to respond
+obtener, to obtain
+sacar, to take out, to remove
+pasar, to pass
+caerse, to fall
+oír, to hear
+regresar, to return
+llenar, to fill
+llegar, to arrive, to become
+llevar, to carry, to take, to wear
+llover, to rain
+llorar, to cry
+llamar, to call
+salvar, to save
+poseer, to posess
+mezclar, to mix
+parar, to stop
+añadir, to add
+valer, to be worth
+utilizar, to use, to utilise
+reconocer, to recognise
+gastar, to spend
+contener, to contain
+cortar, to cut
+manejar, to drive, to manage, to operate
+ocupar, to occupy, to take up
+ocuparse, to take care of
+conducir, to drive
+mejorar, to improve
+consultar, to consult
+desear, to desire, to want
+volar, to fly
+expresar, to express
+expresarse, to express oneself, to express yourself
+crear, to create
+pertenecer, to belong
+tratar, to treat, to address
+tratar de, to deal with
+ofrecer, to offer
+descansar, to rest
+esperar, to wait, to hope
+saltar, to jump
+girar, to spin, to turn
+curar, to cure
+partir, to leave, to split, to divide
+acabar de, to just
+alquilar, to rent
+despertarse, to wake up
+tomar, to take, to drink
+mantener, to maintain, to keep
+establecer, to establish
+resolver, to resolve
+resolverse, to decide
+italiano, italian
+italia, italy
+inglés, english
+inglaterra, england
+americano, american
+franceso, french
+francia, france
+cubano, cuban
+mexicano, mexican
+britanico, british
+gran bretaña, great britain
+el extranjero, foreigner, abroad
+disponible, available
+amplio, wide, spacious
+universal, universal
+intelectual, intellectual
+múltiples, multiple, numerous
+extraño, strange, odd
+común, common
+verdadero, true, reliable, real
+mundial, global, worldwide
+profundo, deep, profound
+consciente, conscious, aware
+particular, particular, odd
+inmediato, immediate, adjacent
+previo, previous, prior
+escasa, scarce
+pendiente, pending
+ácido, acidic, sour
+sencillo, simple
+suelo, ground
+la orientación, orientation, direction
+la búsqueda, search
+casar, to marry
+casarse, to get married
+qué alivio, what a relief
+pues..., well...
+rumbo, direction, course
+dirección, direction, address
+el paso, step
+la señal, signal
+la jaula, cage
+la vela, candle
+golpear, to hit
+quebrar, to break, to smash
+asustado, frightened, scared
+la pesadilla, nightmare
+el bistec, steak
+animar, to encourage, to cheer up
+el curso, course,
+la respuesta, answer, response
+la lectura, reading, reading material
+la clase, class
+la ausencia, absence
+la tarea, task, homework
+el capítulo, chapter
+el premio, prize
+los conocimientos, knowledge, consciousness
+el tema, topic
+la explicación, explanation
+herido, injured
+acaso, perhaps
+encerrar, to lock
+la venta, sale
+fallecido, deceased
+darse cuenta, to realise
+derramar, to spill
+burlarse de, to make fun of, to mock
+coquetear con, to flirt with
+la flecha, arrow
+recoger, to pick up
+la obra, work
+la investigación, investigation, research
+el codigo, code
+el programa, programme
+la calidad, quality
+el crecimiento, growth
+la memoria, memory
+el principio, principle, beginning
+la suerte, luck, fortune
+el aspecto, look, appearance, aspect
+el asunto, business, affair, matter
+la mirada, gaze, look
+tener nada que ver con, to have nothing to do with
+el juicio, trial
+la red, net
+el contenido, content
+la selección, selection, choice
+la altura, height
+el pensamiento, thought
+la escena, scene
+el personaje, character, celebrity
+la competencia, competition
+el propósito, purpose, aim, goal
+a propósito, on purpose
+el atardecer, sunset
+tener prisa, to be in a hurry, to be in a rush
+el boleto, ticket
+despegar, to remove, to take off
+la culebra, snake
+la serpiente, serpent
+la broma, joke
+atrapar, to catch, to capture
+la multitud, crowd, multitude
+ya mismo, right now
+aprovechar, to take advantage of
+el descuento, discount
+renunciar, to renounce, to quit
+el letrero, sign, notice
+sostener, to hold
+la capucha, hood
+acercar, to move closer
+el tesero, treasure
+el bisabuelo, great grandfather, great-grandfather
+la manga, sleeve
+la pala, shovel
+dirigir, to direct
+dirigirse, to head for
+el candado, padlock
+las joyas, jewelry
+enviar, to send
+obligar, to require
+la mitad, half
+desarrollar, to develop
+citar, to cite, to quote
+sufrir, to suffer
+prever, to forsee, to predict
+suponer, to suppose, to assume
+la sonrisa, smile
+la amistad, friendship
+la soledad, solitude, loneliness
+la esperanza, hope
+el placer, pleasure, enjoyment
+el humor, humour, mood
+el sentimiento, feeling
+a través de, through
+lo más seguro, most likely
+tropezar, to trip
+tropezarse, to trip over
+el pasto, grass
+la luna, moon
+la flor, flower
+la Tierra, Earth
+la lluvia, rain
+el volcán, volcano
+la naturaleza, nature
+el campo, field
+la especie, species
+el aire, air
+la madera, wood
+la piedra, stone
+el universo, universe
+la hoja, leaf
+la clima, weather, climate
+el gas, gas
+la célula, cell
+el cerebro, brain
+el paisaje, landscape, scenery
+la raíz, root
+el hueso, bone
+los dientes, teeth
+la planta, plant
+el viento, wind
+el humo, smoke
+el monte, hill
+la corriente, current, trend
+el ambiente, environment, atomsphere
+el espacio, space
+la arena, sand
+el compromiso, commitment
+la crítica, criticism
+el campeonato, championship
+el descenso, descent, drop
+actuar, to perform
+comprobar, to check, to confirm,
+cubrir, to cover
+asumir, to assume, to take on
+el porcentaje, percentage
+el ingreso, income
+la reunión, meeting, reunion
+la junta, board, meeting
+la propiedad, property
+la compañia, company, firm
+el comité, committee
+la inversión, investment
+la conferencia, lecture, talk
+la negociación, negotiation
+económico, economic, cheap
+la economía, economy, economics
+ubicarse, to place, to place oneself
+el brazo, arm
+el pie, foot
+el oído, ear
+la boca, mouth
+el labio, lips
+la pierna, leg
+el cuerpo, body, corpse
+la nariz, nose
+la espalda, back
+el cuello, neck
+el dedo, toe, finger
+el pecho, chest, breast
+la lengua, tongue, language
+la piel, skin
+el frente, forehead, front
+el estómago, stomach
+salud!, cheers!
+la rodilla, knee
+el tratamiento, treatment
+el codo, elbow
+el médico, doctor
+la enfermedad, illness, disease
+el riesgo, risk
+la dosis, dose
+la presión, pressure
+la medicina, medicine
+el diagnostico, diagnosis
+el síntoma, symptom
+la dieta, diet
+la lágrima, tear, teardrop
+el cadáver, corpse, cadaver
+la proteína, protein
+el remedio, medicine, remedy
+el sabor, flavour
+la prensa, press
+el lenguaje, language
+la llamada, call
+la noticia, news, announcement
+el secreto, secret
+la estampilla, stamp, postage stamp
+la postal, postcard
+el comentario, comment, commentary
+el editorial, editorial, publisher
+el ángel, angel
+el alma, soul, core
+la fe, faith
+el espíritu, spirit
+la iglesia, church
+católica, catholic
+la cruz, cross
+el destino, destiny, destination
+santo, holy
+el santo, saint
+definir, to define
+luego, later
+eliminar, to eliminate, to get rid of
+de nuevo, again
+pesar, to weigh
+gotear, to leak
+lastimar, to hurt, to hurt something, to hurt someone
+el sobre, envelope
+el vidrio, glass
+la poesía, poetry
+el ritmo, rhythm
+el violín, violin
+la flauta, flute
+la moda, fashion
+el instrumento, instrument
+el concierto, concert
+la ópera, opera
+la danza, dance
+la orquesta, orchestra
+la película, film
+el bújo, owl
+el disco, disc, cd
+la canción, song
+hallar, to find, to discover
+el anillo, ring
+el amanecer, sunrise
+el lápiz, pencil
+el césped, grass
+la oración, sentence, prayer
+gracioso, funny
+gratis, free
+la cana, grey hair, white hair
+la estanteria, bookcase
+la carretera, motorway, highway
+buen provecho, enjoy your meal, bon apetit
+la nochevieja, new year's eve, new years eve
+la nochebuena, christmas eve
+la parilla, grill
+el juego de mesa, board game
+la alfombra, carpet
+la sortija, ring
+la carpeta, folder
+el siglo, century, millenium
+la colina, hill
+el yoghur, yoghurt
+el estuche, case
+el milagro, miracle
+el teclado, keyboard
+descargar, to download
+la impresora, printer
+el pizarrón, blackboard, whiteboard
+el concejo, council
+la carpeta, folder
+los aretes, earrings
+el escúter, scooter
+el payaso, clown
+el ventilador, fan
+los estantes, shelves
+el fregadero, sink
+el portón, gate, big door
+enterarse, to find out
+enterar, to inform
+suceder, to happen, to follow
+por cierto, by the way
+la manta, blanket
+el batidor, mixer, whisk
+el andén, platform
+el ferrocarril, railway
+el retraso, delay
+de todas formas, anyway
+la ortografía, spelling
+reprobar, to fail
+deletrear, to spell, to spell out
+apurarse, to hurry
+menos mal, luckily
+la pila, battery
+la mezquita, mosque
+la cometa, kite
+la niebla, fog
+la rebanda, slice
+picar, to snack
+el látigo, whip
+el aguacate, avocado
+señalar, to point out, to point at, to mark
+el cajón, drawer
+halar, to pull
+grabar, to record
+borrar, to delete
+la aldea, village, town
+el circo, circus
+pasado mañana, day after tomorrow, the day after tomorrow, two days time
+el quiosco, kiosk
+breve, brief
+el capítulo, chapter
+conectar, to plug in, to connect
+la contraseña, password
+una arroba, @, at, at symbol
+el foro, forum
+silencioso, silent
+el apunte, note, sketch, prompt
+aprobar, to pass
+el repaso, review, revision
+la tos, cough
+mareado, dizzy
+el terremoto, earthquake
+el título, degree
+la almohada, pillow
+el rayo, lightning
