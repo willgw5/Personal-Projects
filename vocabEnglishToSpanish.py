@@ -1,8 +1,9 @@
 from random import shuffle      
 f = open("C:\\Users\\Will\\Desktop\\Python Scripts\\Vocab Tester\\EnglishWords.txt",'r')#open wordlist from desktop
-readList=[]
-for line in f:
-	readList.append(line)   #read wordlist into list format: la spanishword, englishword\n
+readList=f.readlines()
+for _ in readList:                                                      #because the file doesn't end on a new line
+        if _ == readList[-1]:                                           #we add a newline char back in
+                readList[-1] = readList[-1]+'\n'                        #so that later when we write the file, two things don't end up on the same line
 
 f.close()
 
@@ -63,18 +64,18 @@ if len(unlearntWords)>0:                                                        
 
 
 
-for i in readList[indexNumber:]:                                                #for untested words
-        if i==readList[-1]:                                                     #if it is the last line
-                unlearntWords.append(i.strip())                                 #strip the \n newline char to prevent future tests pulling a blank line
+for i in readList[indexNumber:]:                                                #for untested words               
+        if i==readList[-1]:                                                     #if it is the last line                       
+                unlearntWords.append(i.strip())                                 #strip the \n newline char to prevent future tests pulling a blank line                        
         else:
-                   unlearntWords.append(i)                                                #put in the unlearnt pile
+                unlearntWords.append(i)                                         #put in the unlearnt pile
 
 
 
         
 
                         
-f = open("C:\\Users\\Will\\Desktop\\Python Scripts\\Vocab Tester\\EnglishWords.txt",'r+')       #open file for future words
+f = open("C:\\Users\\Will\\Desktop\\Python Scripts\\Vocab Tester\\EnglishWords.txt",'r+')      #open file for future words
 f.truncate()                                                                                    #empty it
 f.writelines(unlearntWords)                                                                     #fill with unlearnt words, combined failed test words and unused words
 f.close()
